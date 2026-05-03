@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE menu SYSTEM "menu.dtd">
+<menu>
+  <item>
+    <name>Latte</name>
+    <description>Espresso with steamed milk.</description>
+    <price>$4.50</price>
+    <image>latte.jpg</image>
+  </item>
+  <item>
+    <name>Cappuccino</name>
+    <description>Espresso, steamed milk and foam.</description>
+    <price>$4.80</price>
+    <image>cappuccino.jpg</image>
+  </item>
+</menu>
