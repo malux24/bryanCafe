@@ -2,17 +2,26 @@
 <!DOCTYPE branches SYSTEM "branches.dtd">
 <branches>
   <branch>
-    <name>City Branch</name>
-    <address>123 Main St, Sydney</address>
-    <phone>+61 2 0000 0000</phone>
-    <hours>Mon–Fri 8am–5pm</hours>
-    <maplink>https://maps.google.com/...</maplink>
+    <name>Surry Hills Branch</name>
+    <address>76 Devonshire St, Surry Hills NSW</address>
+    <phone>02 9211 1234</phone>
+    <hours>Mon - Fri: 6:00 to 14:30, Sat - Sun: 7:00 to 15:00</hours>
+    <maplink>https://maps.google.com/</maplink>
   </branch>
+
   <branch>
-    <name>Suburb Branch</name>
-    <address>45 High St, Sydney</address>
-    <phone>+61 2 1111 1111</phone>
-    <hours>Mon–Sun 7am–6pm</hours>
-    <maplink>https://maps.google.com/...</maplink>
+    <name>Haymarket Branch</name>
+    <address>451 Pitt St, Haymarket Sydney, NSW</address>
+    <phone>02 9262 5678</phone>
+    <hours>Mon - Fri: 6:00 to 16:00, Sat - Sun: 7:00 to 15:00</hours>
+    <maplink>https://maps.google.com/</maplink>
+  </branch>
+
+  <branch>
+    <name>Circular Quay Branch</name>
+    <address>31 Alfred Street, Circular Quay, NSW</address>
+    <phone>02 8971 9101</phone>
+    <hours>Mon - Fri: 6:00 to 16:00, Sat - Sun: 7:00 to 15:00</hours>
+    <maplink>https://maps.google.com/</maplink>
   </branch>
 </branches>

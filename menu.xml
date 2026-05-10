@@ -1,16 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE menu SYSTEM "menu.dtd">
 <menu>
+
+  <!-- Meals -->
   <item>
-    <name>Latte</name>
-    <description>Espresso with steamed milk.</description>
+    <name>Beetroot and feta salad</name>
+    <description>Suitable for vegetarians, made with fresh beetroot.</description>
+    <price>$15.00</price>
+    <image>beetroot-salad.jpg</image>
+  </item>
+
+  <item>
+    <name>Sourdough Rye Sandwich</name>
+    <description>Cheese and salad sandwich made with organic sourdough rye bread.</description>
+    <price>$18.00</price>
+    <image>sourdough-sandwich.jpg</image>
+  </item>
+
+  <item>
+    <name>Spinach Pie and Salad</name>
+    <description>Tasty pie with salad.</description>
+    <price>$20.00</price>
+    <image>spinach-pie.jpg</image>
+  </item>
+
+  <item>
+    <name>Feta pancakes with salad</name>
+    <description>Tasty pancake filled with feta and salad.</description>
+    <price>$19.50</price>
+    <image>feta-pancakes.jpg</image>
+  </item>
+
+  <!-- Coffee & Hot Chocolate -->
+  <item>
+    <name>Small Coffee</name>
+    <description>For coffee, please inform the staff of the coffee type.</description>
+    <price>$3.50</price>
+    <image>coffee-small.jpg</image>
+  </item>
+
+  <item>
+    <name>Regular Coffee</name>
+    <description></description>
+    <price>$4.00</price>
+    <image>coffee-regular.jpg</image>
+  </item>
+
+  <item>
+    <name>Large Coffee</name>
+    <description></description>
     <price>$4.50</price>
-    <image>latte.jpg</image>
+    <image>coffee-large.jpg</image>
   </item>
+
+  <!-- Other beverages -->
   <item>
-    <name>Cappuccino</name>
-    <description>Espresso, steamed milk and foam.</description>
-    <price>$4.80</price>
-    <image>cappuccino.jpg</image>
+    <name>Soda</name>
+    <description></description>
+    <price>$3.00</price>
+    <image>soda.jpg</image>
   </item>
+
+  <item>
+    <name>Fresh juice</name>
+    <description></description>
+    <price>$6.00</price>
+    <image>juice.jpg</image>
+  </item>
+
+  <item>
+    <name>Bottled water</name>
+    <description></description>
+    <price>$2.00</price>
+    <image>water.jpg</image>
+  </item>
+
 </menu>
